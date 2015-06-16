@@ -1,2 +1,9 @@
-# millet-wp-dev-theme
-Development of a custom WP theme built from UnderScores.me
+
+millet
+====
+
+millet - Wordpress theme
+
+Still in production and not quite finished :)
+
+This is a dev version eh!
