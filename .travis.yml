@@ -80,4 +80,4 @@ after_script:
     bash <(curl -s https://codecov.io/bash)
   fi
 git:
-  depth: 1
+    depth: 1
