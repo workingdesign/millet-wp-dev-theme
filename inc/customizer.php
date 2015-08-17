@@ -154,4 +154,3 @@ function millet_customize($wp_customize) {
         'type'    => 'text',
     ) );
 }
-
