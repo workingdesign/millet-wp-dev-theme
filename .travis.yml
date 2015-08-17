@@ -82,4 +82,4 @@ after_script:
 git:
     depth: 1
 
-# end for now
+# end for today
